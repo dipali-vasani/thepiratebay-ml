@@ -1,0 +1,26 @@
+camel: 1.0.0
+name: default/recommend
+title:  Store recommender daemon
+description: skilll for routing to store recommender daemon
+inputs:
+  - name: test_data
+    title: test_data
+    parameters:
+      - name: test_data
+        type: object
+        description: receives service request json
+        required: true
+    routing:
+      all:
+        action  : default/recommend
+        runtime: cortex/functions
+        output: output1
+
+outputs:
+  - name: output1
+    title: output1
+    parameters:
+      - name: evalResponse
+        type: object
+        description: returns service json response
+        required: true

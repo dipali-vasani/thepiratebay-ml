@@ -1,0 +1,49 @@
+item,brand,item_name,rating,store_type,user_name
+1,bata,shoes,4,SHOE_STORE,dipali
+2,khadim,shoes,5,SHOE_STORE,harshit
+3,lee cooper,shoes,3,SHOE_STORE,atul
+4,us polo,shirt,4,CLOTHING_STORE,dipali
+5,allen solly,shirt,5,CLOTHING_STORE,harshit
+6,lee cooper,shirt,4,CLOTHING_STORE,atul
+7,max,shirt,5,CLOTHING_STORE,dipali
+8,sony,headphones,4,STORE,harshit
+9,jbl,headphones,3,STORE,atul
+10,boss,headphones,3,STORE,dipali
+11,jabra,headphones,5,STORE,harshit
+12,xiomi,smartphone,4,STORE,atul
+13,samsung,smartphone,5,STORE,dipali
+14,apple,smartphone,5,STORE,harshit
+15,motorola,smartphone,3,STORE,atul
+16,nokia,smartphone,3,STORE,dipali
+17,VIP,bag,4,STORE,harshit
+18,american tourister,bag,5,STORE,atul
+19,skybags,bag,5,STORE,dipali
+20,HP,laptop,4,ELECTRONICS_STORE,harshit
+21,apple,laptop,5,ELECTRONICS_STORE,atul
+22,dell,laptop,3,ELECTRONICS_STORE,dipali
+23,lenovo,laptop,5,ELECTRONICS_STORE,harshit
+24,microsoft,laptop,3,ELECTRONICS_STORE,atul
+1,bata,shoes,4,SHOE_STORE,atul
+2,khadim,shoes,5,SHOE_STORE,dipali
+3,lee cooper,shoes,3,SHOE_STORE,harshit
+4,us polo,shirt,4,CLOTHING_STORE,atul
+5,allen solly,shirt,5,CLOTHING_STORE,harshit
+6,lee cooper,shirt,4,CLOTHING_STORE,dipali
+7,max,shirt,5,CLOTHING_STORE,atul
+8,sony,headphones,4,STORE,dipali
+9,jbl,headphones,3,STORE,harshit
+10,boss,headphones,3,STORE,atul
+11,jabra,headphones,5,STORE,dipali
+12,xiomi,smartphone,4,STORE,harshit
+13,samsung,smartphone,5,STORE,atul
+14,apple,smartphone,5,STORE,dipali
+15,motorola,smartphone,3,STORE,harshit
+16,nokia,smartphone,3,STORE,atul
+17,VIP,bag,4,STORE,dipali
+18,american tourister,bag,5,STORE,harshit
+19,skybags,bag,5,STORE,atul
+20,HP,laptop,4,ELECTRONICS_STORE,dipali
+21,apple,laptop,5,ELECTRONICS_STORE,harshit
+22,dell,laptop,3,ELECTRONICS_STORE,atul
+23,lenovo,laptop,5,ELECTRONICS_STORE,dipali
+24,microsoft,laptop,3,ELECTRONICS_STORE,harshit

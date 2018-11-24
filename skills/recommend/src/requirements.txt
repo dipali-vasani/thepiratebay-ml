@@ -1,0 +1,4 @@
+cortex-client==5.1.4
+pandas
+joblib
+turicreate

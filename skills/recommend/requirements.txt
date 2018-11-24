@@ -1,0 +1,2 @@
+cortex-client==5.1.4
+pandas==0.23.4
